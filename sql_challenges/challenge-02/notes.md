@@ -1,0 +1,1 @@
+The LEFT JOIN on the interview question takes the page_id from the second table and "merges" it with the pages_id on the first one. We select the null values because we want to conserve the ones from the first one that doesn't appear on the second one (because they don't have likes)
