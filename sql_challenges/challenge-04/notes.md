@@ -1,0 +1,1 @@
+PRECEDING and FOLLOWING keywords allows us to select specific rows (depending on what we want, and establishing a "reference point")
