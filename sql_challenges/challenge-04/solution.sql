@@ -8,7 +8,7 @@ select b.*,
        ) median_weight_per_shape
 from   bricks b
 order  by shape, weight, brick_id;
-
+ 
 -- Second Try It
 select b.brick_id, b.weight,
        round ( avg ( weight ) over (
