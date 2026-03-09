@@ -1,4 +1,4 @@
--- 6.1 
+-- 6.1
 SELECT t1.title, t2.Domestic_sales, t2.International_sales FROM Movies AS t1 JOIN Boxoffice AS t2 ON t1.id = t2.Movie_id;
 
 -- 6.2
