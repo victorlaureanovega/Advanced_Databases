@@ -1,1 +1,1 @@
-Complete first five sections on https://sqlbolt.com/
+Complete the first five sections on https://sqlbolt.com/
